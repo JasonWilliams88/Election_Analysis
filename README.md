@@ -47,9 +47,9 @@ __Answers to the questions above__
     
 * Breakdown of candidate votes received
     
-    Charles Casper Stockham: 23.0% (85,213)
-    Diana DeGette: 73.8% (272,892)
-    Raymon Anthony Doane: 3.1% (11,606)
+    Charles Casper Stockham: 23.0% (85,213) \
+    Diana DeGette: 73.8% (272,892) \
+    Raymon Anthony Doane: 3.1% (11,606) \
     
  * Breakdown of winner
  
