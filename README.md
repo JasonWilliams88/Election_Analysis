@@ -60,3 +60,10 @@ __Answers to the questions above__
 
 
 ## Summary
+
+The code we created is dynamic. changing a few lines allows us to apply this for other and  even larger elections
+
+'file_to_load = os.path.join("./", "election_results.csv")'
+by changeing the csv the code is pointing towards we can use this code for a new election as long as the csv follows the same format 
+
+
