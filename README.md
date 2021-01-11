@@ -1,6 +1,9 @@
 # Election_Analysis
 The following code was used to bring meaning to bulk election data that contained candidates, votes for that candidate, and the county the vote was cast in
-We were able to return everything from total votes to percentage of votes a candidate received.
+We were able to return the following
+* The voter turnout for each county
+* The percentage of votes from each county out of the total count
+* The county with the highest turnout
 
 ## Results
 
