@@ -63,7 +63,11 @@ __Answers to the questions above__
 
 The code we created is dynamic. changing a few lines allows us to apply this for other and  even larger elections
 
-'file_to_load = os.path.join("./", "election_results.csv")'
+'file_to_load = os.path.join("./", "election_results.csv")' \
 by changeing the csv the code is pointing towards we can use this code for a new election as long as the csv follows the same format 
+
+instead of printing to a txt document the code can be changed to email directly. This allows minimal effort on everyone elses part.
+
+Dictionaries allow us to add even more variables to them which allows us to analysis even more complex relationahips within the election.
 
 
