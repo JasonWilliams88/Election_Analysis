@@ -36,7 +36,9 @@ __Answers to the questions above__
 
   - County Votes:
     Jefferson: 10.5% (38,855)
+    
     Denver: 82.8% (306,055)
+    
     Arapahoe: 6.7% (24,801)
 
 * County with largest number of votes
@@ -52,7 +54,9 @@ __Answers to the questions above__
  * Breakdown of winner
  
     Winner: Diana DeGette
+    
     Winning Vote Count: 272,892
+    
     Winning Percentage: 73.8%
 
 
