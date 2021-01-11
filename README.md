@@ -1,5 +1,5 @@
 # Election_Analysis
-The following code was used to bring meaning to bulk election data that contained candidates, votes for that candidate, and the county the vote was cast in
+The following code was used to bring meaning to bulk election data that contained candidates, votes for that candidate, and the county the vote was cast in.
 We were able to return the following
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
@@ -23,7 +23,22 @@ We were able to return the following
 
 https://github.com/JasonWilliams88/Election_Analysis/blob/main/election_analysis.txt
 
+__Answers to the questions above__
+
+* Total votes 
+
+    - 369,711
+    
+    
+* # of votes and % of total votes for each county
+
+  - County Votes:
+    Jefferson: 10.5% (38,855)
+    Denver: 82.8% (306,055)
+    Arapahoe: 6.7% (24,801)
 
 
 
-## Discussion
+
+
+## Summary
