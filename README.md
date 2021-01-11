@@ -30,7 +30,7 @@ __Answers to the questions above__
     - 369,711
     
     
-* # of votes and % of total votes for each county
+* Number of votes and % of total votes for each county
 
   - County Votes:
     Jefferson: 10.5% (38,855)
